@@ -1,0 +1,3 @@
+﻿  TelBook.cpp
+c:\users\vetry\desktop\telbook\telbook\telbook.cpp(640): warning C4715: deleteContact: значение возвращается не при всех путях выполнения
+  TelBook.vcxproj -> C:\Users\vetry\Desktop\TelBook\Debug\TelBook.exe
